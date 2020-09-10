@@ -43,5 +43,7 @@ There is a converter to Darknet YOLO in scripts.
 ## Contributor
 List of teams currently participating in dataset construction:
 
-[Beijing Institute of Technology Driverless Racing Team](http://www.bitfsd.com)
+[Beijing Institute of Technology Driverless Racing Team](http://www.bitfsd.com)  
+
+FuZhou University Driverless Racing Team
 
