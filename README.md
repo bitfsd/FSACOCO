@@ -51,4 +51,4 @@ Beihang University AERO Racing Team
 
 Xihua University Driverless Racing Team
 
-Hunan University Driverless Reacing Team
+Hunan University Sliver Wing Team
