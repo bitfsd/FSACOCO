@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>fza</folder>
+  <filename>MER-132-30UC(SA0009003020)_2020-07-07_08_35_17_466-6</filename>
+  <path>G:\BaiduNetdiskDownload\fza\MER-132-30UC(SA0009003020)_2020-07-07_08_35_17_466-6.bmp</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1292</width>
+    <height>964</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>blue</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>344</xmin>
+      <ymin>582</ymin>
+      <xmax>499</xmax>
+      <ymax>757</ymax>
+    </bndbox>
+  </object>
+</annotation>

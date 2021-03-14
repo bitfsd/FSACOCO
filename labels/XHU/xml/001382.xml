@@ -1,0 +1,26 @@
+<annotation>
+	<folder>廖金龙</folder>
+	<filename>001382.jpg</filename>
+	<path>C:\Users\25285\Desktop\廖金龙\001382.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>719</xmin>
+			<ymin>90</ymin>
+			<xmax>854</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

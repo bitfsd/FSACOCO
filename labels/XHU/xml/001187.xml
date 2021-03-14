@@ -1,0 +1,26 @@
+<annotation>
+	<folder>史佳伟</folder>
+	<filename>001187.jpg</filename>
+	<path>C:\Users\shijiawei\Desktop\yoloimg\史佳伟\001187.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>681</xmin>
+			<ymin>134</ymin>
+			<xmax>842</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>李国峻</folder>
+	<filename>000927.jpg</filename>
+	<path>C:\Users\DJW\Desktop\李国峻\000927.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>179</ymin>
+			<xmax>163</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

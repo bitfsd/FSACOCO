@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yoloimg</folder>
+	<filename>535.jpg</filename>
+	<path>C:\Users\DJW\Desktop\yoloorg\yoloimg\535.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>662</xmin>
+			<ymin>115</ymin>
+			<xmax>808</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

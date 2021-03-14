@@ -1,0 +1,26 @@
+<annotation>
+	<folder>杨海渠</folder>
+	<filename>423.jpg</filename>
+	<path>D:\qq\1643764566\FileRecv\yoloimg\yoloimg\杨海渠\423.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>803</xmin>
+			<ymin>178</ymin>
+			<xmax>964</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

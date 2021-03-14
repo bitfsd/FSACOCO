@@ -1,0 +1,26 @@
+<annotation>
+	<folder>li</folder>
+	<filename>2006.jpg</filename>
+	<path>J:\li\2006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1141</xmin>
+			<ymin>564</ymin>
+			<xmax>1455</xmax>
+			<ymax>918</ymax>
+		</bndbox>
+	</object>
+</annotation>

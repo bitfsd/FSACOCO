@@ -1,0 +1,26 @@
+<annotation>
+	<folder>李紫</folder>
+	<filename>770.jpg</filename>
+	<path>C:\Users\384\Desktop\yoloimg\yoloimg\李紫\770.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>752</xmin>
+			<ymin>57</ymin>
+			<xmax>952</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

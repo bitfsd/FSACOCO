@@ -1,0 +1,26 @@
+<annotation>
+	<folder>蒋一铭</folder>
+	<filename>001845.jpg</filename>
+	<path>C:\Users\DJW\Desktop\xml\蒋一铭\001845.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>746</ymin>
+			<xmax>449</xmax>
+			<ymax>865</ymax>
+		</bndbox>
+	</object>
+</annotation>

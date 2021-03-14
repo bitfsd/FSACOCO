@@ -47,3 +47,8 @@ List of teams currently participating in dataset construction:
 
 FuZhou University Driverless Racing Team
 
+Beihang University AERO Racing Team
+
+Xihua University Driverless Racing Team
+
+Hunan University Driverless Reacing Team

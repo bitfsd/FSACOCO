@@ -1,0 +1,26 @@
+<annotation>
+	<folder>li</folder>
+	<filename>6409.jpg</filename>
+	<path>J:\li\6409.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1246</xmin>
+			<ymin>270</ymin>
+			<xmax>1445</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>
