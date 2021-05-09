@@ -41,7 +41,7 @@ Darknet 使用归一化的图像尺寸，并按照 类别，中点，宽度和�
 ## 数据集要求 
 标注框必须**尽可能地**靠近锥桶。  
 如下图所示，使用的锥桶必须符合大赛规则要求。  
-<img src="examples/example.jpg">
+<img src="examples/Example.jpg">
 
 
 ## 贡献者

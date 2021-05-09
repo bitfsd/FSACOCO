@@ -44,7 +44,7 @@ There is a converter to Darknet YOLO in scripts.
 ## Datasets Requirement
 The label box must be closed to the cone **as close as possible**.  
 As shown in the figure below, the cones must meet the rules of FSAC:
-<img src="examples/example.jpg">
+<img src="examples/Example.jpg">
 
 
 ## Contributor
