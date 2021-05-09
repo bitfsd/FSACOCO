@@ -9,7 +9,7 @@ This dataset lives from your contribution. You first need to send your team's da
 
 ## How to send your dataset
 
-In order to solve the problem of transferring large files, we **recommend** https://airportal.cn for file upload. Once the upload is completed, you need to manually send the download code to the e-mail address: bitfsd@163.com.
+In order to solve the problem of transferring large files, we **recommend** https://airportal.cn (<2G) or https://pan.baidu.com/ (>2G) for file upload. Once the upload is completed, you need to manually send the download code to the e-mail address: bitfsd@163.com.
 
 ## Annotation Types
 
@@ -40,6 +40,13 @@ The position is given in absolute pixel values, the distance is calculated in me
 
 There is a converter to Darknet YOLO in scripts.
 
+
+## Datasets Requirement
+The label box must be closed to the cone **as close as possible**.  
+As shown in the figure below, the cones must meet the rules of FSAC:
+<img src="examples/example.jpg">
+
+
 ## Contributor
 List of teams currently participating in dataset construction:
 
@@ -52,3 +59,5 @@ Beihang University AERO Racing Team
 Xihua University Driverless Racing Team
 
 Hunan University Sliver Wing Team
+
+Wuhan University of Science and Technology Chiji Racing Team
