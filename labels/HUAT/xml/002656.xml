@@ -1,0 +1,103 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>002656.jpg</filename>
+    <path>fsac-PascalVOC-export/Annotations/002656.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>303.0186078566512</xmin>
+        <ymin>349.4117647058823</ymin>
+        <xmax>382.4121295658167</xmax>
+        <ymax>444.70588235294116</ymax>
+    </bndbox>
+</object><object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>467.09855272226105</xmin>
+        <ymin>234.26470588235293</ymin>
+        <xmax>517.3811164713991</xmax>
+        <ymax>301.88878676470574</ymax>
+    </bndbox>
+</object><object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>546.4920744314271</xmin>
+        <ymin>182.64705882352942</ymin>
+        <xmax>588.8352860096485</xmax>
+        <ymax>235.58823529411762</ymax>
+    </bndbox>
+</object><object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>587.5120606478291</xmin>
+        <ymin>156.17647058823528</ymin>
+        <xmax>624.5623707787734</xmax>
+        <ymax>194.5588235294117</ymax>
+    </bndbox>
+</object><object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>969.9241902136463</xmin>
+        <ymin>160.14705882352942</ymin>
+        <xmax>996.3886974500348</xmax>
+        <ymax>206.47058823529412</ymax>
+    </bndbox>
+</object><object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1229.276361130255</xmin>
+        <ymin>353.38235294117646</ymin>
+        <xmax>1306.0234321157827</xmax>
+        <ymax>436.88878676470557</ymax>
+    </bndbox>
+</object><object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1008.2977257064094</xmin>
+        <ymin>197.20588235294116</ymin>
+        <xmax>1047.9944865609934</xmax>
+        <ymax>244.9770220588234</ymax>
+    </bndbox>
+</object><object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1081.0751206064783</xmin>
+        <ymin>248.8235294117647</ymin>
+        <xmax>1131.3576843556177</xmax>
+        <ymax>313.80055147058795</ymax>
+    </bndbox>
+</object>
+</annotation>

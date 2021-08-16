@@ -1,0 +1,103 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>002057.jpg</filename>
+    <path>fsac-PascalVOC-export/Annotations/002057.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2.64645072363887</xmin>
+        <ymin>292.5</ymin>
+        <xmax>78.07029634734666</xmax>
+        <ymax>389.24172794117646</ymax>
+    </bndbox>
+</object><object>
+    <name>RedCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>129.6760854583046</xmin>
+        <ymin>435.56525735294116</ymin>
+        <xmax>256.7057201929704</xmax>
+        <ymax>567.9181985294117</ymax>
+    </bndbox>
+</object><object>
+    <name>RedCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>842.89455547898</xmin>
+        <ymin>237.03584558823528</ymin>
+        <xmax>910.3790489317712</xmax>
+        <ymax>313.80055147058823</ymax>
+    </bndbox>
+</object><object>
+    <name>RedCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1316.6092350103377</xmin>
+        <ymin>177.47702205882354</ymin>
+        <xmax>1368.2150241212955</xmax>
+        <ymax>233.0652573529412</ymax>
+    </bndbox>
+</object><object>
+    <name>RedCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1647.4155754651965</xmin>
+        <ymin>164.24172794117646</ymin>
+        <xmax>1692.4052377670573</xmax>
+        <ymax>213.21231617647058</ymax>
+    </bndbox>
+</object><object>
+    <name>BlueCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1810.172294968987</xmin>
+        <ymin>221.1534926470588</ymin>
+        <xmax>1877.6567884217782</xmax>
+        <ymax>293.9476102941176</ymax>
+    </bndbox>
+</object><object>
+    <name>BlueCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1575.961405926947</xmin>
+        <ymin>300.56525735294116</ymin>
+        <xmax>1652.7084769124742</xmax>
+        <ymax>390.56525735294116</ymax>
+    </bndbox>
+</object><object>
+    <name>BlueCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1545.5272226051</xmin>
+        <ymin>529.5358455882352</ymin>
+        <xmax>1687.1123363197798</xmax>
+        <ymax>702.9181985294118</ymax>
+    </bndbox>
+</object>
+</annotation>

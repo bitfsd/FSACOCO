@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>002670.jpg</filename>
+    <path>fsac-PascalVOC-export/Annotations/002670.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>350.65472088215125</xmin>
+        <ymin>367.94117647058823</ymin>
+        <xmax>432.69469331495526</xmax>
+        <ymax>465.882352941176</ymax>
+    </bndbox>
+</object><object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>500.17918676774724</xmin>
+        <ymin>250.1470588235294</ymin>
+        <xmax>554.4314266023432</xmax>
+        <ymax>320.29411764705856</ymax>
+    </bndbox>
+</object><object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1767.8290833907652</xmin>
+        <ymin>710.7352941176471</ymin>
+        <xmax>1920.0000000000002</xmax>
+        <ymax>897.3529411764706</ymax>
+    </bndbox>
+</object><object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1147.2363886974501</xmin>
+        <ymin>262.05882352941177</ymin>
+        <xmax>1201.4886285320492</xmax>
+        <ymax>331.0064338235292</ymax>
+    </bndbox>
+</object><object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1299.4073053066852</xmin>
+        <ymin>371.9117647058823</ymin>
+        <xmax>1385.4169538249494</xmax>
+        <ymax>469.9770220588228</ymax>
+    </bndbox>
+</object>
+</annotation>

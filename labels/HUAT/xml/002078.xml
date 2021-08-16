@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>002078.jpg</filename>
+    <path>fsac-PascalVOC-export/Annotations/002078.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>RedCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>713.2184700206766</xmin>
+        <ymin>157.5</ymin>
+        <xmax>800.5513439007581</xmax>
+        <ymax>262.1829044117643</ymax>
+    </bndbox>
+</object><object>
+    <name>RedCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1423.7904893177126</xmin>
+        <ymin>23.823529411764707</ymin>
+        <xmax>1488.6285320468644</xmax>
+        <ymax>91.32352941176453</ymax>
+    </bndbox>
+</object>
+</annotation>

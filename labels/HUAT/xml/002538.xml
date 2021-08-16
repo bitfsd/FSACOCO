@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>002538.jpg</filename>
+    <path>fsac-PascalVOC-export/Annotations/002538.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>RedCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>666.9055823569954</xmin>
+        <ymin>1.3235294117647058</ymin>
+        <xmax>702.6326671261199</xmax>
+        <ymax>47.647058823529406</ymax>
+    </bndbox>
+</object><object>
+    <name>RedCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>260.67539627842916</xmin>
+        <ymin>304.4117647058823</ymin>
+        <xmax>378.4424534803584</xmax>
+        <ymax>447.35294117647055</ymax>
+    </bndbox>
+</object><object>
+    <name>RedCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>574.279807029635</xmin>
+        <ymin>71.47058823529412</ymin>
+        <xmax>621.9159200551344</xmax>
+        <ymax>140.29411764705878</ymax>
+    </bndbox>
+</object><object>
+    <name>BlueCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1091.6609235010342</xmin>
+        <ymin>15.882352941176471</ymin>
+        <xmax>1120.7718814610623</xmax>
+        <ymax>59.558823529411754</ymax>
+    </bndbox>
+</object><object>
+    <name>BlueCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1204.1350792556862</xmin>
+        <ymin>99.26470588235294</ymin>
+        <xmax>1250.4479669193665</xmax>
+        <ymax>161.47058823529412</ymax>
+    </bndbox>
+</object><object>
+    <name>BlueCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1590.5168849069607</xmin>
+        <ymin>345.44117647058823</ymin>
+        <xmax>1708.2839421088906</xmax>
+        <ymax>479.11764705882354</ymax>
+    </bndbox>
+</object>
+</annotation>

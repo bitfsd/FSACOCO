@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>002676.jpg</filename>
+    <path>fsac-PascalVOC-export/Annotations/002676.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>651.1764705882352</ymin>
+        <xmax>165.40317022742937</xmax>
+        <ymax>852.3529411764699</ymax>
+    </bndbox>
+</object><object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>395.64438318401216</xmin>
+        <ymin>353.38235294117646</ymin>
+        <xmax>479.0075809786354</xmax>
+        <ymax>452.64705882352894</ymax>
+    </bndbox>
+</object><object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1319.2556857339766</xmin>
+        <ymin>366.61764705882354</ymin>
+        <xmax>1398.6492074431462</xmax>
+        <ymax>463.3593749999999</ymax>
+    </bndbox>
+</object><object>
+    <name>YellowCone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1716.223294279807</xmin>
+        <ymin>660.4411764705882</ymin>
+        <xmax>1880.3032391454185</xmax>
+        <ymax>831.3005514705872</ymax>
+    </bndbox>
+</object>
+</annotation>

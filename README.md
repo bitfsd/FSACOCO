@@ -61,3 +61,5 @@ Xihua University Driverless Racing Team
 Hunan University Sliver Wing Team
 
 Wuhan University of Science and Technology Chiji Racing Team
+
+Hubei University of Automotive Technology Driverless Racing Team
