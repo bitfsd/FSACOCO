@@ -5,7 +5,12 @@ Open-Source Dataset for Cones that need to be recognized during the dynamic disc
 
 ## How to get the datasets
 
-This dataset lives from your contribution. You first need to send your team's dataset to us. After we verify the validity of the dataset, we will send you all the current datasets we have. To promote the growth of the dataset, we have set a minimum contribution amount of 600 images.
+This dataset lives from your contribution. According to the current situation of FSD teams, we set up two methods to get the dataset.  
+1.**Labeled Dataset**: You first need to send your team's dataset to us. After we verify the validity of the dataset, we will send you all the current datasets we have. To promote the growth of the dataset, we have set a minimum contribution amount of 600 images.  
+2.**Unlabeled Dataset**:
+For some teams that have been established for a short time and do not meet the conditions of geting photo from real vehicle, they can send an e-mail application to obtain the unlabeled data provided by fsacoco for labeling, and then send back according to the acquisition method of labeled data. After verification, all data can be obtained.  
+
+At the same time, we also advocate that each FSD-team can extract your dataset(We provide a script called `extract.py` under `scripts` folder to extract photo from .bag file), and expand the unlabeled dataset in the format of one compressed package for every 800 images. The dataset should only include the photo in the running state (i.e. RES is go).
 
 ## How to send your dataset
 
@@ -13,6 +18,7 @@ In order to solve the problem of transferring large files, we **recommend** http
 
 ## Annotation Types
 
+MM-label-toos original labeled data and:  
 ### Darknet YOLO
 
 Darknet uses normalized image dimensions for the labels and defines the regions-of-interest (ROI) by their class, mid-point, width and height
